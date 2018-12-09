@@ -14,8 +14,9 @@ Der Reaktionstester wird durch eine Startsequenz eingeleitet und zeigt nach dem 
  3. [Bestehenede Probleme](#probleme)
  4. [Weiterentwicklung](#weiterentwicklung)
  5. [Anhang](#anhang)
- 5.1 [Stückliste](#stueckliste)
- 5.2 [Beispielaufbau](#bild)
+
+5.1 [Stückliste](#stueckliste)
+5.2 [Beispielaufbau](#bild)
 
   
 
