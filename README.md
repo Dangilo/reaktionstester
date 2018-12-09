@@ -25,7 +25,6 @@ Der Reaktionstester wird durch eine Startsequenz eingeleitet und zeigt nach dem 
 Um den Reaktionstester nutzen zu können, muss zuerst der Arduino mit dem Strom verbunden werden. 
 
 Ist der Arduino nun mit dem Strom verbunden wird dies durch eine Startsequenz deutlich. Ist diese durchgelaufen und alle LED Lampen sind aus, kann der Reaktionstest durch Drücken des Tasters gestartet werden. Es erleuchten die Lampen von außen nach innen. Erlöschen die Lampen wieder, ist das Startsignal für den Test gegeben und es muss versucht werden in möglichst kurzer Zeit den Taster zu drücken.
-[Stückliste ](## Entwicklerdokumentation)
 Das Drücken des Tasters wird du Aufblinken der Lampen bestätigt. Die Reaktionszeit kann am Ende an der Anzahl der leuchtenden Lampen abgelesen werden. Desto schneller die Reaktion war, desto weniger Lampen leuchten, wobei das Optimum bei einer leuchtenden Lampe liegt.
 
 Dieser Test kann beliebig häufig durch drücken des Tasters wiederholt werden.
