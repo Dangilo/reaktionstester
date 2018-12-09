@@ -9,6 +9,9 @@ In Folge werden die Nutzung und Erstellung eines Reaktionstesters beschrieben. Z
 
 Der Reaktionstester wird durch eine Startsequenz eingeleitet und zeigt nach dem Test das Ergebnis mittels der 7 LED Lampen an.
 
+
+## Inhalt
+
  1. [Benutzerdokumentation](#benutzer)
  2. [Entwicklerdokumentation](#entwickler)
  3. [Bestehenede Probleme](#probleme)
@@ -55,5 +58,5 @@ Wird der Tester nicht mehr benötigt, kann dieser einfach durch ziehen des USB K
 ### Beispielbild <a name="bild"></a>
 
 
-[Beispielaufbau]
-(./beispiel.png)
+![Beispielaufbau]
+(https://github.com/Dangilo/reaktionstester/blob/master/beispiel.png)
