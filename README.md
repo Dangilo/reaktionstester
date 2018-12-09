@@ -55,7 +55,9 @@ Wird der Tester nicht mehr benötigt, kann dieser einfach durch ziehen des USB K
 | Jumper Kabel Male - Male | 18 |
 
 
-### Beispielbild <a name="bild"></a>
+### Beispielaufbau <a name="bild"></a>
 
-
+Folgendermaßen kann der Aufbau des Reaktionstesters aussehen: 
 ![Beispielaufbau](https://github.com/Dangilo/reaktionstester/blob/master/beispiel.png)
+
+4qNqKwrZtG9xZSg
