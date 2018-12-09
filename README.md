@@ -40,7 +40,7 @@ Wird der Tester nicht mehr benötigt, kann dieser einfach durch ziehen des USB K
 
 ## Anhang <a name="anhang"></a>
 
-### St+ckliste <a name="stueckliste"></a>
+### Stückliste <a name="stueckliste"></a>
 
 | Teil | Anzahl  |
 |--|--|
@@ -57,5 +57,5 @@ Wird der Tester nicht mehr benötigt, kann dieser einfach durch ziehen des USB K
 ### Beispielbild <a name="bild"></a>
 
 
-![Beispielaufbau]
+[Beispielaufbau]
 (./beispiel.png)
