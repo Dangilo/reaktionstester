@@ -58,5 +58,4 @@ Wird der Tester nicht mehr benötigt, kann dieser einfach durch ziehen des USB K
 ### Beispielbild <a name="bild"></a>
 
 
-![Beispielaufbau]
-(https://github.com/Dangilo/reaktionstester/blob/master/beispiel.png)
+![Beispielaufbau](https://github.com/Dangilo/reaktionstester/blob/master/beispiel.png)
