@@ -15,9 +15,6 @@ Der Reaktionstester wird durch eine Startsequenz eingeleitet und zeigt nach dem 
  4. [Weiterentwicklung](#weiterentwicklung)
  5. [Anhang](#anhang)
 
-5.1 [Stückliste](#stueckliste)
-5.2 [Beispielaufbau](#bild)
-
   
 
 ## 1 Benutzerdokumentation <a name="benutzer"></a>
