@@ -37,9 +37,11 @@ void loop()
 	button_state = digitalRead(BUTTON_IN);
 	if(button_state == HIGH && afterStartSeq){
 		elapsedTime = millis() - startTime;
-		Serial.print( elapsedTime);
+		Serial.print( elapsedTime + "\n");
 		blink();
       	showResult(elapsedTime);
+      delay(5000);
+ 		turnOffAllLEDs(500);
 		isReady = true;
       	afterStartSeq = false;
 	}else if(!afterStartSeq && isReady && button_state == HIGH){
