@@ -14,9 +14,8 @@ Der Reaktionstester wird durch eine Startsequenz eingeleitet und zeigt nach dem 
 
  1. [Benutzerdokumentation](#benutzer)
  2. [Entwicklerdokumentation](#entwickler)
- 3. [Bestehenede Probleme](#probleme)
- 4. [Weiterentwicklung](#weiterentwicklung)
- 5. [Anhang](#anhang)
+ 3. [Weiterentwicklung](#weiterentwicklung)
+ 4. [Anhang](#anhang)
 
   
 
@@ -47,11 +46,8 @@ Als letztes muss noch der Taster auf dem Steckbrett aufgebracht werden. Hierzu w
 
 Nun ist der Aufbau abgeschlossen und es muss nur noch die Software eingerichtet werden. Hierzu wird der Arduino mit dem Computer verbunden und die Entwicklungsumgebung geöffnet. 
 
-
-## Bestehende Probleme <a name="probleme"></a>
-
-
 ## Weiterentwicklung <a name="weiterentwicklung"></a>
+Natürlich ist das Projekt noch erweiterbar. Zum einen ist noch gewünscht den Tester energiesparen in einen Ernergiesparmodus zu versetzten zum anderen ist es auch noch möglich die Ergebnisanzeige genauer und visueller zu gestalten.
 
 ## Anhang <a name="anhang"></a>
 
