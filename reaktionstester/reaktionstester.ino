@@ -20,6 +20,8 @@ void loop()
     reakt.showResult(elapsedTime);
     delay(5000);
     reakt.turnOffAllLEDs(500);
+    elapsedTime = 0;
+    startTime = 0;
     isReady = true;
     afterStartSeq = false;
   }else if(!afterStartSeq && isReady && reakt.readButton() == HIGH){
